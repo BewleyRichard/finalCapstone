@@ -27,6 +27,9 @@ for two instances of each employee, the following is performed:
 * The employee's name, type, and payout, along with the formula used, are displayed in the console.
 * Sales targets and data can be fabricated as needed.
 
-![alt text]( "Usage Image")
+Example output image.
 
-## CreditsAuthor: Richard Bewley, 2022.
+![Screenshot](Screenshot_Manage.png)
+
+## Credits
+Author: Richard Bewley, 2022.
