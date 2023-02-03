@@ -20,7 +20,8 @@ To run a JavaScript file in Visual Studio Code, open the file in the editor, bri
 ## Usage 
 
 Upon being prompted, enter your message and press enter. Your message will be returned as a string of letters.
-![alt text]( "Usage Image")
+
+![Screenshot](Screenshot_Cypher.png)
 
 ## Credits
 
